@@ -1,4 +1,4 @@
-# Attica Terraform Starter
+# Attica Terraform Starter for Azure
 
 Quick generic terraform startup + Guide with modules for appService, sql database, storage and reddis.
 
